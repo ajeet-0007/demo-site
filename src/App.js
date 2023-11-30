@@ -8,6 +8,7 @@ import Global from './components/Global/Global';
 import TechStack from './components/TechStack/TechStack';
 import Steps from './components/Steps/Steps';
 
+import WhyKodeHash from './components/WhyKodeHash/WhyKodeHash';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Steps/>
       <Global/>
       <TechStack/>
+      <WhyKodeHash/>
       <ClientView/>
       <Footer/>
     </div>
